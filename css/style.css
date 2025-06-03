@@ -71,6 +71,7 @@ main {
     to {opacity: 100%;}
 }
 .inicio {
+    margin: 1.5rem;
     animation-fill-mode: forwards;
     animation-name: aparecer;
     animation-duration: 2s;
